@@ -12,8 +12,8 @@ npm install bytes-parser
 ```js
 const humanBytes = require("bytes-parser");
 
-humanBytes(0); // "0 B"
-humanBytes(1024); // "1 KB"
-humanBytes(1048576); // "1 MB"
-humanBytes(1073741824); // "1 GB"
+bytesParser(0); // "0 B"
+bytesParser(1024); // "1 KB"
+bytesParser(1048576); // "1 MB"
+bytesParser(1073741824); // "1 GB"
 ```
