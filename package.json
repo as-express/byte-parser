@@ -1,0 +1,16 @@
+{
+  "name": "byte-parser",
+  "version": "1.0.0",
+  "description": "Convert bytes to human-readable file sizes (e.g. 1 KB, 1 MB)",
+  "main": "index.js",
+  "keywords": [
+    "bytes",
+    "human",
+    "size",
+    "format",
+    "file",
+    "nodejs"
+  ],
+  "author": "Aset",
+  "license": "MIT"
+}
